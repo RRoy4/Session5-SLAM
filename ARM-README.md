@@ -37,7 +37,7 @@ In this lesson we'll learn how to build a 4-axis robotic arm and make it move us
 To download the starter package, clone the following git repo with the `starter-branch` into your colcon workspace:
 
 ```bash
-git clone -b starter-branch https://github.com/MOGI-ROS/Week-9-10-Simple-arm
+git clone -b session5-arm https://github.com/RRoy4/Session5
 ```
 
 ---
